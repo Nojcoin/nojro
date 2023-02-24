@@ -1,7 +1,7 @@
 [![Nojro Logo](https://nojcoin.github.io/nojro/nojro.png)](nojro.noj)
 
-[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/4lggi9dpjc1qob7k/branch/main?svg=true)](https://ci.appveyor.com/project/nojro-bot/nojro-ljo26/branch/main)
-[![nojro Discord Invite](https://img.shields.io/discord/745037351163527189?color=%237289DA&label=chat&logo=discord&logoColor=white)](https://discord.gg/nojrojs)
+[![Build status](https://ci.appveyor.com/api/projects/status/f4d8h5m6257cgrwg/branch/main?svg=true)](https://ci.appveyor.com/project/Alenaxa/nojro/branch/main)
+[![nojro Discord Invite](https://img.shields.io/discord/745037351163527189?color=%237289DA&label=chat&logo=discord&logoColor=white)](https://discord.gg/nojropzf)
 
 :memo: Available Translations: 🇨🇳 🇧🇷 🇪🇸 🇯🇵 🇷🇺 🇫🇷 🇺🇸 🇩🇪.
 View these docs in other languages on our [Crowdin](https://crowdin.com/project/nojro) project.
@@ -9,9 +9,9 @@ View these docs in other languages on our [Crowdin](https://crowdin.com/project/
 The nojro framework lets you write cross-platform desktop applications
 using JavaScript, HTML and CSS. It is based on [Node.js](https://nodejs.org/) and
 [Chromium](https://www.chromium.org) and is used by the [Atom
-editor](https://github.com/atom/atom) and many other [apps](https://nojrojs.org/apps).
+editor](https://github.com/atom/atom) and many other [apps](https://nojropzf.org/apps).
 
-Follow [@nojrojs](https://twitter.com/nojrojs) on Twitter for important
+Follow [@nojropzf](https://twitter.com/nojropzf) on Twitter for important
 announcements.
 
 This project adheres to the Contributor Covenant
